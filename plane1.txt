@@ -2,3 +2,5 @@
 2. buy plane
 3. fly plane
 4. buy new plane
+5. give plane maintenece
+6. buy and upgrade eto new plane
